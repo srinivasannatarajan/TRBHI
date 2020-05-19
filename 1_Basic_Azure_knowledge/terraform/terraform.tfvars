@@ -1,0 +1,5 @@
+arm_subscription_id="xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+arm_client_id="xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+arm_client_secret="xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+arm_tenant_id="xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+arm_region="eastus"

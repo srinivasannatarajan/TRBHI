@@ -1,0 +1,1 @@
+terraform.tfvars containes variable values where arm_subscription_id,arm_client_id,arm_client_secret and arm_tenant_id are dummy
